@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9OfSf00FgDr/9FVEDTf0qjoT6zTVRuDDdz+MKRUbV1EkMQ0Umr7mQ7Fv3Ue31aCKkleex7WnJOK8+OIEGsP3ng==",
+  "success": true,
+  "projectFilePath": "/Users/quanpham/Projects/ExportFile/ExportFile/ExportFile.csproj",
+  "expectedPackageFiles": [
+    "/Users/quanpham/.nuget/packages/csvhelper/28.0.1/csvhelper.28.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
