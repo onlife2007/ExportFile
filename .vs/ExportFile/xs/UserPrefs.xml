@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{075D3680-068C-4C5E-BBF1-E41FB99035DF}|Default">
-  <MonoDevelop.Ide.ItemProperties.ExportFile FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExportFile PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExportFile/Program.cs">
+    <Files>
+      <File FileName="ExportFile/Program.cs" Line="35" Column="20" />
+      <File FileName="ExportFile/Group.cs" Line="7" Column="23" />
+      <File FileName="ExportFile/Staff.cs" Line="12" Column="19" />
+      <File FileName="ExportFile/StaffGroup.cs" Line="11" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExportFile" expanded="True" selected="True">
+            <Node name="ExportFile" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

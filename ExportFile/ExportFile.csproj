@@ -9,8 +9,10 @@
 
   <ItemGroup>
     <None Remove="CsvHelper" />
+    <None Remove="Neo4j.Driver.Simple" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="CsvHelper" Version="28.0.1" />
+    <PackageReference Include="Neo4j.Driver.Simple" Version="4.4.0" />
   </ItemGroup>
 </Project>

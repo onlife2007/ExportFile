@@ -41,6 +41,10 @@
             "CsvHelper": {
               "target": "Package",
               "version": "[28.0.1, )"
+            },
+            "Neo4j.Driver.Simple": {
+              "target": "Package",
+              "version": "[4.4.0, )"
             }
           },
           "imports": [
